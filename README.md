@@ -21,3 +21,8 @@ Repositório para armazenar os códigos do treinamento da VTEX em parceria com a
 - Javascript Básico - Prática
 - Javascript Intermediário
 - Introdução ao Typescript
+
+## Semana 3
+- React Básico
+- React Intermediário
+- GraphQL
