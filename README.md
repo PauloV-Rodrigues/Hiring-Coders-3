@@ -26,3 +26,6 @@ Repositório para armazenar os códigos do treinamento da VTEX em parceria com a
 - React Básico
 - React Intermediário
 - GraphQL
+
+## Semana 4
+- Introdução ao Node.JS
